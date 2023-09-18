@@ -3,7 +3,8 @@ Analysis of  Airbnb data using MongoDB Atlas, performing data cleaning and prepa
 
 ## Objectives
 
-To an and prepare the dataset, addressing missing values, duplicates, and data type conversions for accurate analysis.
+To establish a MongoDB connection, retrieve the Airbnb dataset, and ensure efficient data retrieval for analysis.
+To clean and prepare the dataset, addressing missing values, duplicates, and data type conversions for accurate analysis.
 To develop a streamlit web application with interactive maps showcasing the distribution of Airbnb listings, allowing users to explore prices, ratings, and other relevant factors.
 To Conduct price analysis and visualization, exploring variations based on location, property type, and seasons using dynamic plots and charts.
 To Analyze availability patterns across seasons, visualizing occupancy rates and demand fluctuations using suitable visualizations.
