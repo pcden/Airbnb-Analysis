@@ -38,16 +38,6 @@ pip install streamlit
 pip install plotly
 ```
 
-**Usage**
-
-To use this project, follow these steps:
-
-1. Clone the repository: ```git clone https://github.com/gopiashokan/Airbnb-Analysis.git```
-2. Install the required packages: ```pip install -r requirements.txt```
-3. Run the Streamlit app: ```streamlit run app.py```
-4. Access the app in your browser at ```http://localhost:8501```
-
-
 **Features**
 
 **Data Collection and Preprocessing**
@@ -79,11 +69,9 @@ Identify and analyze the top 10 hosts based on various features, providing insig
 
 Utilize Plotly to create interactive and informative visualizations for EDA, making data exploration efficient and insightful.
 
-**Tableau Dashboard**
+**PowerBI Dashboard**
 
-Create a comprehensive Tableau dashboard to visually analyze Airbnb data, with a focus on average prices and the number of reviews based on country and room types.
-
-Explore the Tableau dashboard [https://public.tableau.com/gopiashokan/Airbnb-Analysis](https://public.tableau.com/views/AirbnbAnalysis_16942685266440/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) for in-depth insights.
+Create a comprehensive  dashboard to visually analyze Airbnb data, with a focus on average prices and the number of reviews based on country and room types.
 
 
 **Contributing**
@@ -91,17 +79,6 @@ Explore the Tableau dashboard [https://public.tableau.com/gopiashokan/Airbnb-Ana
 Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request.
 
 
-**License**
-
-This project is licensed under the MIT License. Please review the LICENSE file for more details.
 
 
-**Contact**
 
-📧 Email: gopiashokankiot@gmail.com 
-
-🌐 LinkedIn: [linkedin.com/in/gopiashokan](https://www.linkedin.com/in/gopiashokan)
-
-For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
-
-![](https://github.com/gopiashokan/Airbnb-Analysis/blob/main/tableau_dashboard.png)
